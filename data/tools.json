@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T04:54:24.642Z",
+  "updatedAt": "2026-11-23T05:35:13.293Z",
   "tools": [
     {
       "id": "awesome-claude-code",
@@ -12,7 +12,7 @@
         "curated",
         "claude-code"
       ],
-      "stars": 58542,
+      "stars": 58618,
       "starHistory": [
         56615,
         56629,
@@ -41,9 +41,10 @@
         58325,
         58394,
         58476,
-        58542
+        58542,
+        58618
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -57,7 +58,7 @@
         "mcp",
         "directory"
       ],
-      "stars": 98369,
+      "stars": 98401,
       "starHistory": [
         96906,
         96909,
@@ -86,9 +87,10 @@
         98115,
         98280,
         98334,
-        98369
+        98369,
+        98401
       ],
-      "lastCommit": "2026-11-17",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -102,7 +104,7 @@
         "browser",
         "automation"
       ],
-      "stars": 39981,
+      "stars": 40028,
       "starHistory": [
         38667,
         38675,
@@ -131,7 +133,8 @@
         39869,
         39913,
         39950,
-        39981
+        39981,
+        40028
       ],
       "lastCommit": "2026-11-18",
       "archived": false
@@ -147,7 +150,7 @@
         "docs",
         "context"
       ],
-      "stars": 65249,
+      "stars": 65304,
       "starHistory": [
         63733,
         63739,
@@ -176,9 +179,10 @@
         65095,
         65149,
         65201,
-        65249
+        65249,
+        65304
       ],
-      "lastCommit": "2026-11-20",
+      "lastCommit": "2026-11-22",
       "archived": false
     },
     {
@@ -192,7 +196,7 @@
         "plugins",
         "marketplace"
       ],
-      "stars": 2003,
+      "stars": 2006,
       "starHistory": [
         1965,
         1965,
@@ -221,7 +225,8 @@
         2003,
         2004,
         2004,
-        2003
+        2003,
+        2006
       ],
       "lastCommit": "2026-11-05",
       "archived": false
@@ -237,7 +242,7 @@
         "skills",
         "official"
       ],
-      "stars": 198571,
+      "stars": 199112,
       "starHistory": [
         183969,
         184018,
@@ -266,7 +271,8 @@
         197323,
         197788,
         198131,
-        198571
+        198571,
+        199112
       ],
       "lastCommit": "2026-11-16",
       "archived": false
@@ -282,7 +288,7 @@
         "ai-agents",
         "binary-analysis"
       ],
-      "stars": 473000,
+      "stars": 474429,
       "starHistory": [
         391168,
         392440,
@@ -311,9 +317,10 @@
         468623,
         470322,
         471730,
-        473000
+        473000,
+        474429
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -327,7 +334,7 @@
         "anthropic",
         "claude"
       ],
-      "stars": 308457,
+      "stars": 309125,
       "starHistory": [
         289741,
         289963,
@@ -356,9 +363,10 @@
         306704,
         307383,
         307945,
-        308457
+        308457,
+        309125
       ],
-      "lastCommit": "2026-11-20",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -372,7 +380,7 @@
         "ai-agents",
         "claude"
       ],
-      "stars": 196455,
+      "stars": 197014,
       "starHistory": [
         177047,
         177290,
@@ -401,7 +409,8 @@
         194224,
         194999,
         195747,
-        196455
+        196455,
+        197014
       ],
       "lastCommit": "2026-11-22",
       "archived": false
@@ -417,7 +426,7 @@
         "claude-code",
         "codex"
       ],
-      "stars": 156222,
+      "stars": 156463,
       "starHistory": [
         148956,
         149040,
@@ -446,9 +455,10 @@
         155605,
         155884,
         156067,
-        156222
+        156222,
+        156463
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -462,7 +472,7 @@
         "antigravity",
         "claude"
       ],
-      "stars": 152563,
+      "stars": 152948,
       "starHistory": [
         140875,
         140999,
@@ -491,9 +501,10 @@
         151448,
         151863,
         152222,
-        152563
+        152563,
+        152948
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -507,7 +518,7 @@
         "antigravity",
         "ast"
       ],
-      "stars": 151664,
+      "stars": 152143,
       "starHistory": [
         136066,
         136263,
@@ -536,9 +547,10 @@
         150262,
         150747,
         151261,
-        151664
+        151664,
+        152143
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -552,7 +564,7 @@
         "anthropic",
         "caveman"
       ],
-      "stars": 122008,
+      "stars": 122213,
       "starHistory": [
         115282,
         115342,
@@ -581,9 +593,10 @@
         121361,
         121615,
         121817,
-        122008
+        122008,
+        122213
       ],
-      "lastCommit": "2026-11-20",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -597,7 +610,7 @@
         "antigravity",
         "claude-code"
       ],
-      "stars": 119617,
+      "stars": 119829,
       "starHistory": [
         110775,
         110850,
@@ -626,7 +639,8 @@
         119004,
         119227,
         119429,
-        119617
+        119617,
+        119829
       ],
       "lastCommit": "2026-11-18",
       "archived": false
@@ -642,7 +656,7 @@
         "agent-orchestration",
         "agent-skills"
       ],
-      "stars": 115705,
+      "stars": 116042,
       "starHistory": [
         107623,
         107711,
@@ -671,9 +685,10 @@
         114863,
         115271,
         115533,
-        115705
+        115705,
+        116042
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -687,7 +702,7 @@
         "agent-ide",
         "ai-agents"
       ],
-      "stars": 132132,
+      "stars": 133342,
       "starHistory": [
         106965,
         107200,
@@ -716,9 +731,10 @@
         129015,
         130104,
         131198,
-        132132
+        132132,
+        133342
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -732,7 +748,7 @@
         "ai-agents",
         "ai-memory"
       ],
-      "stars": 118876,
+      "stars": 119137,
       "starHistory": [
         103391,
         103474,
@@ -761,9 +777,10 @@
         118283,
         118489,
         118696,
-        118876
+        118876,
+        119137
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -777,7 +794,7 @@
         "ai-agents",
         "anti-slop"
       ],
-      "stars": 119796,
+      "stars": 120236,
       "starHistory": [
         102959,
         103077,
@@ -806,7 +823,8 @@
         118556,
         118987,
         119414,
-        119796
+        119796,
+        120236
       ],
       "lastCommit": "2026-11-22",
       "archived": false
@@ -822,7 +840,7 @@
         "ai-agent",
         "ai-search"
       ],
-      "stars": 113799,
+      "stars": 114065,
       "starHistory": [
         103433,
         103843,
@@ -851,9 +869,10 @@
         113125,
         113383,
         113608,
-        113799
+        113799,
+        114065
       ],
-      "lastCommit": "2026-11-08",
+      "lastCommit": "2026-11-22",
       "archived": false
     },
     {
@@ -867,7 +886,7 @@
         "ai-agents",
         "architecture-diagram"
       ],
-      "stars": 98617,
+      "stars": 98859,
       "starHistory": [
         89753,
         89906,
@@ -896,9 +915,10 @@
         97824,
         98115,
         98394,
-        98617
+        98617,
+        98859
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -912,7 +932,7 @@
         "business-knowledge",
         "claude-code"
       ],
-      "stars": 93571,
+      "stars": 93703,
       "starHistory": [
         88395,
         88439,
@@ -941,9 +961,10 @@
         93201,
         93348,
         93464,
-        93571
+        93571,
+        93703
       ],
-      "lastCommit": "2026-11-18",
+      "lastCommit": "2026-11-22",
       "archived": false
     },
     {
@@ -957,7 +978,7 @@
         "ai-coding",
         "anthropic"
       ],
-      "stars": 87433,
+      "stars": 87523,
       "starHistory": [
         84642,
         84670,
@@ -986,9 +1007,10 @@
         87123,
         87219,
         87318,
-        87433
+        87433,
+        87523
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1002,7 +1024,7 @@
         "ai-agents",
         "ai-gateway"
       ],
-      "stars": 89443,
+      "stars": 89668,
       "starHistory": [
         81492,
         81563,
@@ -1031,9 +1053,10 @@
         88737,
         88996,
         89231,
-        89443
+        89443,
+        89668
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1047,7 +1070,7 @@
         "agent-development",
         "ai-agent"
       ],
-      "stars": 80706,
+      "stars": 80750,
       "starHistory": [
         79274,
         79294,
@@ -1076,7 +1099,8 @@
         80613,
         80659,
         80687,
-        80706
+        80706,
+        80750
       ],
       "lastCommit": "2026-11-15",
       "archived": false
@@ -1092,7 +1116,7 @@
         "ai-agents",
         "antigravity"
       ],
-      "stars": 80020,
+      "stars": 80088,
       "starHistory": [
         78006,
         78021,
@@ -1121,7 +1145,8 @@
         79838,
         79911,
         79965,
-        80020
+        80020,
+        80088
       ],
       "lastCommit": "2026-09-18",
       "archived": false
@@ -1137,7 +1162,7 @@
         "agentic-framework",
         "agentic-workflow"
       ],
-      "stars": 82234,
+      "stars": 82292,
       "starHistory": [
         79508,
         79581,
@@ -1166,9 +1191,10 @@
         82066,
         82126,
         82173,
-        82234
+        82234,
+        82292
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1182,7 +1208,7 @@
         "chrome",
         "chrome-devtools"
       ],
-      "stars": 58716,
+      "stars": 58891,
       "starHistory": [
         54205,
         54217,
@@ -1211,9 +1237,10 @@
         58249,
         58405,
         58573,
-        58716
+        58716,
+        58891
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1227,7 +1254,7 @@
         "ast",
         "claude-code"
       ],
-      "stars": 49007,
+      "stars": 49052,
       "starHistory": [
         47560,
         47581,
@@ -1256,7 +1283,8 @@
         48839,
         48897,
         48951,
-        49007
+        49007,
+        49052
       ],
       "lastCommit": "2026-11-21",
       "archived": false
@@ -1272,7 +1300,7 @@
         "architecture-diagram",
         "claude-code"
       ],
-      "stars": 37107,
+      "stars": 37130,
       "starHistory": [
         36423,
         36427,
@@ -1301,9 +1329,10 @@
         37059,
         37083,
         37098,
-        37107
+        37107,
+        37130
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1317,7 +1346,7 @@
         "mcp",
         "mcp-server"
       ],
-      "stars": 34660,
+      "stars": 34679,
       "starHistory": [
         33984,
         33991,
@@ -1346,7 +1375,8 @@
         34578,
         34601,
         34631,
-        34660
+        34660,
+        34679
       ],
       "lastCommit": "2026-11-21",
       "archived": false
@@ -1362,7 +1392,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 34370,
+      "stars": 34404,
       "starHistory": [
         32420,
         32457,
@@ -1391,9 +1421,10 @@
         34286,
         34317,
         34345,
-        34370
+        34370,
+        34404
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1407,7 +1438,7 @@
         "ai",
         "ai-coding"
       ],
-      "stars": 31589,
+      "stars": 31622,
       "starHistory": [
         30735,
         30740,
@@ -1436,7 +1467,8 @@
         31519,
         31541,
         31560,
-        31589
+        31589,
+        31622
       ],
       "lastCommit": "2026-11-19",
       "archived": false
@@ -1452,7 +1484,7 @@
         "ai-agent-tools",
         "ai-agents"
       ],
-      "stars": 25670,
+      "stars": 25684,
       "starHistory": [
         25235,
         25238,
@@ -1481,7 +1513,8 @@
         25615,
         25629,
         25653,
-        25670
+        25670,
+        25684
       ],
       "lastCommit": "2026-11-22",
       "archived": false
@@ -1497,7 +1530,7 @@
         "mcp-client",
         "mcp-server"
       ],
-      "stars": 24928,
+      "stars": 24945,
       "starHistory": [
         24676,
         24677,
@@ -1526,7 +1559,8 @@
         24899,
         24909,
         24917,
-        24928
+        24928,
+        24945
       ],
       "lastCommit": "2026-11-17",
       "archived": false
@@ -1542,7 +1576,7 @@
         "mcp-server",
         "n8n"
       ],
-      "stars": 23293,
+      "stars": 23296,
       "starHistory": [
         23143,
         23144,
@@ -1571,7 +1605,8 @@
         23285,
         23290,
         23292,
-        23293
+        23293,
+        23296
       ],
       "lastCommit": "2026-11-19",
       "archived": false
@@ -1587,7 +1622,7 @@
         "ai-design",
         "byok"
       ],
-      "stars": 108865,
+      "stars": 109028,
       "starHistory": [
         104146,
         104186,
@@ -1616,9 +1651,10 @@
         108377,
         108565,
         108724,
-        108865
+        108865,
+        109028
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1632,7 +1668,7 @@
         "ai-agent",
         "ai-job-search"
       ],
-      "stars": 84078,
+      "stars": 84254,
       "starHistory": [
         77607,
         77657,
@@ -1661,9 +1697,10 @@
         83600,
         83829,
         83975,
-        84078
+        84078,
+        84254
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1677,7 +1714,7 @@
         "claude-code",
         "codex"
       ],
-      "stars": 69880,
+      "stars": 70448,
       "starHistory": [
         61358,
         61437,
@@ -1706,9 +1743,10 @@
         68281,
         68788,
         69397,
-        69880
+        69880,
+        70448
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1722,7 +1760,7 @@
         "ai-humanizer",
         "ai-writing"
       ],
-      "stars": 72040,
+      "stars": 72422,
       "starHistory": [
         61000,
         61087,
@@ -1751,7 +1789,8 @@
         70894,
         71353,
         71721,
-        72040
+        72040,
+        72422
       ],
       "lastCommit": "2026-11-19",
       "archived": false
@@ -1767,7 +1806,7 @@
         "ai-agents",
         "ai-seo"
       ],
-      "stars": 61911,
+      "stars": 62098,
       "starHistory": [
         56678,
         56721,
@@ -1796,7 +1835,8 @@
         61307,
         61558,
         61762,
-        61911
+        61911,
+        62098
       ],
       "lastCommit": "2026-11-20",
       "archived": false
@@ -1812,7 +1852,7 @@
         "ai-scientist",
         "bioinformatics"
       ],
-      "stars": 58042,
+      "stars": 58133,
       "starHistory": [
         54760,
         54797,
@@ -1841,7 +1881,8 @@
         57749,
         57872,
         57957,
-        58042
+        58042,
+        58133
       ],
       "lastCommit": "2026-11-16",
       "archived": false
@@ -1857,7 +1898,7 @@
         "awesome",
         "awesome-list"
       ],
-      "stars": 53914,
+      "stars": 53940,
       "starHistory": [
         53361,
         53365,
@@ -1886,7 +1927,8 @@
         53857,
         53877,
         53897,
-        53914
+        53914,
+        53940
       ],
       "lastCommit": "2026-11-18",
       "archived": false
@@ -1902,7 +1944,7 @@
         "agentic-skills",
         "ai-agent-skills"
       ],
-      "stars": 50111,
+      "stars": 50166,
       "starHistory": [
         48544,
         48560,
@@ -1931,9 +1973,10 @@
         49970,
         50011,
         50058,
-        50111
+        50111,
+        50166
       ],
-      "lastCommit": "2026-11-21",
+      "lastCommit": "2026-11-22",
       "archived": false
     },
     {
@@ -1947,7 +1990,7 @@
         "agent-skills",
         "code-review"
       ],
-      "stars": 55158,
+      "stars": 55479,
       "starHistory": [
         48358,
         48384,
@@ -1976,9 +2019,10 @@
         54223,
         54457,
         54842,
-        55158
+        55158,
+        55479
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -1992,7 +2036,7 @@
         "agents",
         "ai"
       ],
-      "stars": 4576,
+      "stars": 4583,
       "starHistory": [
         4470,
         4471,
@@ -2021,7 +2065,8 @@
         4567,
         4570,
         4573,
-        4576
+        4576,
+        4583
       ],
       "lastCommit": "2026-11-20",
       "archived": false
@@ -2037,7 +2082,7 @@
         "ai-coding",
         "aider"
       ],
-      "stars": 2213,
+      "stars": 2215,
       "starHistory": [
         2158,
         2158,
@@ -2066,9 +2111,10 @@
         2207,
         2206,
         2211,
-        2213
+        2213,
+        2215
       ],
-      "lastCommit": "2026-11-20",
+      "lastCommit": "2026-11-22",
       "archived": false
     },
     {
@@ -2111,6 +2157,7 @@
         1656,
         1657,
         1657,
+        1659,
         1659
       ],
       "lastCommit": "2026-11-11",
@@ -2156,6 +2203,7 @@
         1007,
         1009,
         1009,
+        1010,
         1010
       ],
       "lastCommit": "2026-10-26",
@@ -2172,7 +2220,7 @@
         "agent-infrastructure",
         "agent-os"
       ],
-      "stars": 1097,
+      "stars": 1102,
       "starHistory": [
         947,
         949,
@@ -2201,9 +2249,10 @@
         1087,
         1091,
         1094,
-        1097
+        1097,
+        1102
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -2245,6 +2294,7 @@
         849,
         850,
         849,
+        850,
         850,
         850
       ],
@@ -2289,6 +2339,7 @@
         808,
         822,
         830,
+        868,
         868,
         868,
         868
@@ -2336,6 +2387,7 @@
         629,
         629,
         629,
+        627,
         627
       ],
       "lastCommit": "2026-11-13",
@@ -2352,7 +2404,7 @@
         "ai-prompts",
         "ai-video-generation"
       ],
-      "stars": 733,
+      "stars": 738,
       "starHistory": [
         581,
         583,
@@ -2381,7 +2433,8 @@
         711,
         717,
         725,
-        733
+        733,
+        738
       ],
       "lastCommit": "2026-11-06",
       "archived": false
@@ -2426,6 +2479,7 @@
         414,
         415,
         415,
+        415,
         415
       ],
       "lastCommit": "2026-11-17",
@@ -2442,7 +2496,7 @@
         "ai",
         "anti-slop"
       ],
-      "stars": 114603,
+      "stars": 115157,
       "starHistory": [
         90799,
         93604,
@@ -2469,9 +2523,10 @@
         113015,
         113592,
         114149,
-        114603
+        114603,
+        115157
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -2485,7 +2540,7 @@
         "ai-agents",
         "animation"
       ],
-      "stars": 87913,
+      "stars": 88411,
       "starHistory": [
         80178,
         80635,
@@ -2502,9 +2557,10 @@
         86635,
         87121,
         87542,
-        87913
+        87913,
+        88411
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -2518,7 +2574,7 @@
         "claude-code",
         "esp32"
       ],
-      "stars": 104755,
+      "stars": 104858,
       "starHistory": [
         103106,
         103623,
@@ -2533,9 +2589,10 @@
         104599,
         104652,
         104705,
-        104755
+        104755,
+        104858
       ],
-      "lastCommit": "2026-11-22",
+      "lastCommit": "2026-11-23",
       "archived": false
     },
     {
@@ -2549,7 +2606,7 @@
         "animation",
         "claude-code"
       ],
-      "stars": 58690,
+      "stars": 58922,
       "starHistory": [
         56192,
         56470,
@@ -2561,9 +2618,28 @@
         58023,
         58242,
         58480,
-        58690
+        58690,
+        58922
       ],
       "lastCommit": "2026-11-15",
+      "archived": false
+    },
+    {
+      "id": "mvanhorn-last30days-skill",
+      "name": "last30days-skill",
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "category": "skills",
+      "tags": [
+        "agent-skills",
+        "artificial-intelligence",
+        "automation"
+      ],
+      "stars": 72903,
+      "starHistory": [
+        72903
+      ],
+      "lastCommit": "2026-11-23",
       "archived": false
     }
   ]
